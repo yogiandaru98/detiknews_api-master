@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Jakarta - KPK menetapkan tiga tersangka baru dalam kasus dugaan korupsi pengadaan APD di Kementerian Kesehatan (Kemenkes) RI. Ketiganya langsung ditahan.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/community/media/visual/2024/10/03/kpk-tahan-tersangka-baru-kasus-korupsi-apd-kemenkes-1_169.jpeg?w=200&amp;q=&lt;/gambar&gt;
+		&lt;judul&gt;KPK Tahan Tersangka Baru Kasus Korupsi APD Kemenkes&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/foto-news/d-7570827/kpk-tahan-tersangka-baru-kasus-korupsi-apd-kemenkes&lt;/link&gt;
+		&lt;waktu&gt;Kamis, 03 Okt 2024 18:37 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

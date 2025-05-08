@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Cagub dan Cawagub Jawa Tengah (Jateng) Ahmad Luthfi dan Taj Yasin berjanji akan menjadikan Jateng Gemah Ripah Loh Jinawi dengan program âNgopeni-Ngelakoniâ. Luthfi berjanji akan memudahkan akses kesehatan hingga pendidikan warga Jateng.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2024/10/30/paslon-cagub-dan-cawagub-nomor-urut-2-ahmad-luthfi-taj-yasin-foto-tangkapan-layar-youtube-kpu-jateng_43.png?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video Luthfi Tutup Debat Jateng, Janji Permudah Akses Pendidikan-Kesehatan&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7614688/video-luthfi-tutup-debat-jateng-janji-permudah-akses-pendidikan-kesehatan&lt;/link&gt;
+		&lt;waktu&gt;Rabu, 30 Okt 2024 21:59 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;[Gambas:Video 20detik]&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2025/02/15/cek-kesehatan-gratis_43.png?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Pengalaman Cek Kesehatan Gratis Hadiah Ultah Pemerintah&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/kolom/d-7874698/pengalaman-cek-kesehatan-gratis-hadiah-ultah-pemerintah&lt;/link&gt;
+		&lt;waktu&gt;Sabtu, 19 Apr 2025 11:05 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

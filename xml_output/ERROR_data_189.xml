@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2024/10/30/detik-detik-tom-lembong-jalani-tes-kesehatan-sebelum-ditahan-kejagung_43.jpeg?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video: Momen Tom Lembong Jalani Tes Kesehatan Sebelum Ditahan Kejagung&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7613312/video-momen-tom-lembong-jalani-tes-kesehatan-sebelum-ditahan-kejagung&lt;/link&gt;
+		&lt;waktu&gt;Rabu, 30 Okt 2024 10:31 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Paslon nomor urut 1, Bobby Nasution-Surya menyebut banyak masyarakat di Sumatera Utara yang mengeluh terkait pelayanan kesehatan hingga pendidikan. Bobby menyebut pihaknya akan membereskan seluruh masalah yang masih terjadi hingga saat ini.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2024/09/24/bobby-nasution-dan-surya-usai-pengundian-nomor-urut-untuk-pilgub-sumut-2024-nizar-aldidetiksumut_43.jpeg?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video Bobby Buka Debat: Soroti soal Kesehatan-Pendidikan di Sumut&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7614595/video-bobby-buka-debat-soroti-soal-kesehatan-pendidikan-di-sumut&lt;/link&gt;
+		&lt;waktu&gt;Rabu, 30 Okt 2024 20:51 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

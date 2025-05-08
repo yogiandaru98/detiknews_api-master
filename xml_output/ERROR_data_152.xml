@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;CEO unit asuransi UnitedHealthcare, Brian Thompson, tewas ditembak di luar hotel Manhattan, New York. Kepolisian New York (NYPD) mengatakan Thompson diduga memang sudah menjadi target khusus dari pelaku.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2024/12/05/pelaku-penembakan-bos-asuransi-kesehatan-unitedhealthcare-dok-nypd-via-associated-press_43.webp?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video: Tampang Pelaku Penembakan Bos Asuransi Kesehatan Terbesar di AS&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7671650/video-tampang-pelaku-penembakan-bos-asuransi-kesehatan-terbesar-di-as&lt;/link&gt;
+		&lt;waktu&gt;Kamis, 05 Des 2024 10:01 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

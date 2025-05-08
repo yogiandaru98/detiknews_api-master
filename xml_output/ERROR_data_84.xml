@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Nusa Tenggara Timur - Warga yang terdampak aktivitas vulkanik Gunung Lewotobi Laki-Laki menerima bantuan 10.000 susu dan masker. Bantuan ini untuk mendukung kesehatan warga terdampak&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/community/media/visual/2025/01/23/korban-erupsi-lewotobi-laki-laki-terima-bantuan-10-ribu-susu-dan-masker-3_169.jpeg?w=200&amp;q=&lt;/gambar&gt;
+		&lt;judul&gt;Korban Erupsi Lewotobi Laki-Laki Dapat 10 Ribu Susu dan Masker&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/foto-news/d-7746433/korban-erupsi-lewotobi-laki-laki-dapat-10-ribu-susu-dan-masker&lt;/link&gt;
+		&lt;waktu&gt;Kamis, 23 Jan 2025 15:24 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

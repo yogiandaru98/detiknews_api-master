@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2024/12/10/tampang-penembak-mati-bos-asuransi-kesehatan-terbesar-di-as_43.png?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video: Tampang Penembak Mati Bos Asuransi Kesehatan Terbesar di AS&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7679541/video-tampang-penembak-mati-bos-asuransi-kesehatan-terbesar-di-as&lt;/link&gt;
+		&lt;waktu&gt;Selasa, 10 Des 2024 12:35 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

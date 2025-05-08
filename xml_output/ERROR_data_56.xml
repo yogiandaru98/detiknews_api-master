@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Gubernur terpilih Sumatera Selatan (Sumsel) Herman Deru usai melakukan pemeriksaan kesehatan. Herman menyebut pemeriksaan kesehatan meliputi tensi darah hingga asam urat.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2025/02/16/herman-deru-dwidetikcom_43.jpeg?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video: Jelang Pelantikan, Gubernur Terpilih Sumsel Cek Kesehatan di Kemendagri&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7780659/video-jelang-pelantikan-gubernur-terpilih-sumsel-cek-kesehatan-di-kemendagri&lt;/link&gt;
+		&lt;waktu&gt;Minggu, 16 Feb 2025 10:53 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

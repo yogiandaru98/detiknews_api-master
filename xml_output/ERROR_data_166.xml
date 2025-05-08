@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Cawagub Jawa Tengah nomor urut 1, Hendrar Prihadi, menanyakan soal solusi menurunkan angka kemiskinan di Rembang. Cawagub nomor urut 2, Gus Yasin, pun menjanjikan program kesehatan dan pendidikan gratis.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2024/11/10/luthfi-yasin-pakai-baju-sepatu-karya-umkm-1_43.jpeg?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video Cara Yasin Atasi Kemiskinan di Rembang: Kesehatan-Pendidikan Gratis&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7631918/video-cara-yasin-atasi-kemiskinan-di-rembang-kesehatan-pendidikan-gratis&lt;/link&gt;
+		&lt;waktu&gt;Minggu, 10 Nov 2024 21:30 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

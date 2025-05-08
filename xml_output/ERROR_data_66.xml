@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Wakil Presiden (Wapres) Gibran Rakabuming Raka tiba di Puskesmas Kemayoran, Jakarta Pusat. Gibran meninjau pelaksanaan pemeriksaan kesehatan gratis di Puskesmas Kemayoran.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2025/02/17/video-gibran-cek-pemeriksaan-kesehatan-gratis-di-puskesmas-kemayoran_43.jpeg?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video Gibran Cek Pemeriksaan Kesehatan Gratis di Puskesmas Kemayoran&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7781873/video-gibran-cek-pemeriksaan-kesehatan-gratis-di-puskesmas-kemayoran&lt;/link&gt;
+		&lt;waktu&gt;Senin, 17 Feb 2025 11:50 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

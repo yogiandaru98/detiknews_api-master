@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Wakil Presiden (Wapres) Gibran Rakabuming Raka meninjau pelaksanaan cek kesehatan gratis (CKG) di Puskesmas Mampang dan Pancoran, Jakarta Selatan. Gibran juga membagikan paket berisi perlengkapan anak-anak ke warga.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2025/02/18/gibran-tinjau-program-cek-kesehatan-gratis_43.png?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video: Gibran Tinjau Cek Kesehatan Gratis di Puskesmas Mampang-Pancoran&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7819362/video-gibran-tinjau-cek-kesehatan-gratis-di-puskesmas-mampang-pancoran&lt;/link&gt;
+		&lt;waktu&gt;Rabu, 12 Mar 2025 12:34 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

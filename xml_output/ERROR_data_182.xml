@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Cawagub Jakarta nomor urut 3, Rano Karno, mendapatkan dukungan dari Relawan Kesehatan Indonesia. Dalam kesempatan itu, ia mengatakan Pemprov DKI Jakarta wajib memperhatikan nasib para relawan kesehatan.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2024/10/23/rano-karno-jadi-rebutan-foto-bareng-ibu-ibu-lenteng-agung-5_43.jpeg?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video: Rano Janji Perhatikan Nasib Relawan Kesehatan di Jakarta&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7615531/video-rano-janji-perhatikan-nasib-relawan-kesehatan-di-jakarta&lt;/link&gt;
+		&lt;waktu&gt;Kamis, 31 Okt 2024 13:44 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

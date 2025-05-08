@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Gaza - Otoritas kesehatan di Jalur Gaza mengebumikan mayat 88 warga Palestina dalam sebuah kuburan massal. 88 jasad tanpa identitas itu dikembalikan Israel dalam truk.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/community/media/visual/2024/09/27/israel-kirim-88-jenazah-warga-palestina-tanpa-identitas-ditumpuk-dalam-truk_169.jpeg?w=200&amp;q=&lt;/gambar&gt;
+		&lt;judul&gt;Israel Kirim 88 Jenazah Palestina Tanpa Identitas, Ditumpuk dalam Truk&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/foto-news/d-7560820/israel-kirim-88-jenazah-palestina-tanpa-identitas-ditumpuk-dalam-truk&lt;/link&gt;
+		&lt;waktu&gt;Jumat, 27 Sep 2024 19:00 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

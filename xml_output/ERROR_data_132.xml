@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Layanan kesehatan di Gaza semakin kesulitan akibat serangan yang terus dilancarkan Israel. Pemblokiran jalan yang dilakukan mengakibatkan sulitnya akses bantuan kesehatan di wilayah Gaza.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/visual/2025/03/31/palestinian-israel-conflict-1743402061450_43.jpeg?w=250&amp;q=90&lt;/gambar&gt;
+		&lt;judul&gt;Video: Serangan Israel Akibatkan Layanan Kesehatan di Gaza Menuju Kolaps&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/detiktv/d-7857215/video-serangan-israel-akibatkan-layanan-kesehatan-di-gaza-menuju-kolaps&lt;/link&gt;
+		&lt;waktu&gt;Senin, 07 Apr 2025 04:03 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;

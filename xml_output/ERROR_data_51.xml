@@ -1,0 +1,11 @@
+<!-- ERROR: not well-formed (invalid token): line 1, column 0 -->
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;?xml&gt;
+&lt;data&gt;
+		&lt;body&gt;Vantikan - Kondisi kesehatan Paus Fransiskus kian hari kian membaik. Terbaru, Vatikan mengatakan bahwa Paus sudah mulai bekerja dari rumah sakit.&lt;/body&gt;
+		&lt;gambar&gt;https://akcdn.detik.net.id/community/media/visual/2025/02/26/umat-katolik-vantikan-doakan-kesembuhan-untuk-paus-fransiskus-1740553167073_169.jpeg?w=200&amp;q=&lt;/gambar&gt;
+		&lt;judul&gt;Umat Katolik Vantikan Doakan Kesembuhan untuk Paus Fransiskus&lt;/judul&gt;
+		&lt;link&gt;https://news.detik.com/foto-news/d-7796435/umat-katolik-vantikan-doakan-kesembuhan-untuk-paus-fransiskus&lt;/link&gt;
+		&lt;waktu&gt;Rabu, 26 Feb 2025 16:30 WIB&lt;/waktu&gt;
+	&lt;/data&gt;
+&lt;/?xml&gt;
